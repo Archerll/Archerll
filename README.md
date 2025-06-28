@@ -62,5 +62,4 @@
 		<img alt="github profile contributions chart" src="https://raw.githubusercontent.com/Archerll/Archerll/main/profile-3d-contrib/profile-gitblock.svg" />
 	</picture>
 </p>
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Archerll&theme=xcode" /> </div>
 </div>
